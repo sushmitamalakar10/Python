@@ -2,3 +2,6 @@
 
 """this is
 multiline comment"""
+
+'''this
+is also multiline comment'''
