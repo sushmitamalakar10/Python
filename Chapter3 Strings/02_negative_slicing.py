@@ -9,3 +9,4 @@ print(name[1:]) # name[1:8]
 print(name[1:8])
 
 print(name[:]) # name[0:8]
+print(name[:-1])
